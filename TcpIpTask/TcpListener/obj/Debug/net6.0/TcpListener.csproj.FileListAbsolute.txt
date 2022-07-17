@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TcpIpTask\TcpListener\bin\Debug\net6.0\TcpListener.exe
+C:\Users\User\source\repos\TcpIpTask\TcpListener\bin\Debug\net6.0\TcpListener.deps.json
+C:\Users\User\source\repos\TcpIpTask\TcpListener\bin\Debug\net6.0\TcpListener.runtimeconfig.json
+C:\Users\User\source\repos\TcpIpTask\TcpListener\bin\Debug\net6.0\TcpListener.dll
+C:\Users\User\source\repos\TcpIpTask\TcpListener\bin\Debug\net6.0\ref\TcpListener.dll
+C:\Users\User\source\repos\TcpIpTask\TcpListener\bin\Debug\net6.0\TcpListener.pdb
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.AssemblyInfo.cs
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.dll
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\ref\TcpListener.dll
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.pdb
+C:\Users\User\source\repos\TcpIpTask\TcpListener\obj\Debug\net6.0\TcpListener.genruntimeconfig.cache

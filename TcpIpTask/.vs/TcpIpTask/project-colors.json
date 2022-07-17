@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0266d822-9d9c-4e4e-9189-1883248feea7": {
+      "ProjectGuid": "0266d822-9d9c-4e4e-9189-1883248feea7",
+      "DisplayName": "TcpIpTask",
+      "ColorIndex": 0
+    },
+    "347a85fb-481d-4eca-af60-368d8ff594b0": {
+      "ProjectGuid": "347a85fb-481d-4eca-af60-368d8ff594b0",
+      "DisplayName": "TcpListener",
+      "ColorIndex": 1
+    },
+    "50253ee6-02e7-49e4-ac6e-bdd2d162da3a": {
+      "ProjectGuid": "50253ee6-02e7-49e4-ac6e-bdd2d162da3a",
+      "DisplayName": "TCPClient",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
